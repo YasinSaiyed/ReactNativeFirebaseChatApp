@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878058744503",
+    "project_id": "fir-chatapp-90d8b",
+    "storage_bucket": "fir-chatapp-90d8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878058744503:android:cabbc40388befec0843b32",
+        "android_client_info": {
+          "package_name": "com.firebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878058744503-kte85c6c2uhl5rg4te36sqqsrl1auuma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWT9bCGyscOpQdVMlGAqiQPPC2zFzB6EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878058744503-kte85c6c2uhl5rg4te36sqqsrl1auuma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
